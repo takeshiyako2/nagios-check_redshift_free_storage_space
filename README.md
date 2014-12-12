@@ -23,4 +23,6 @@ Nagios plugin for Amazon Redshift free space check.
 
 # License
 
-MIT
+Streem is distributed under MIT license.
+
+Takeshi Yako
